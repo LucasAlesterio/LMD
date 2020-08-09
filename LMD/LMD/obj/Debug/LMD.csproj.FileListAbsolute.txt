@@ -1,0 +1,7 @@
+C:\Users\lucas\source\repos\LMD\LMD\obj\Debug\LMD.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\LMD\LMD\obj\Debug\LMD.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\LMD\LMD\bin\Debug\LMD.exe.config
+C:\Users\lucas\source\repos\LMD\LMD\bin\Debug\LMD.exe
+C:\Users\lucas\source\repos\LMD\LMD\bin\Debug\LMD.pdb
+C:\Users\lucas\source\repos\LMD\LMD\obj\Debug\LMD.exe
+C:\Users\lucas\source\repos\LMD\LMD\obj\Debug\LMD.pdb

@@ -1,0 +1,13 @@
+C:\Users\lucas\source\repos\LMD_FINAL\LMD_FINAL\bin\Debug\LMD_FINAL.exe.config
+C:\Users\lucas\source\repos\LMD_FINAL\LMD_FINAL\bin\Debug\LMD_FINAL.exe
+C:\Users\lucas\source\repos\LMD_FINAL\LMD_FINAL\bin\Debug\LMD_FINAL.pdb
+C:\Users\lucas\source\repos\LMD_FINAL\LMD_FINAL\bin\Debug\pt-BR\LMD_FINAL.resources.dll
+C:\Users\lucas\source\repos\LMD_FINAL\LMD_FINAL\obj\Debug\LMD_FINAL.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\LMD_FINAL\LMD_FINAL\obj\Debug\LMD_FINAL.LMD.resources
+C:\Users\lucas\source\repos\LMD_FINAL\LMD_FINAL\obj\Debug\LMD_FINAL.Properties.Resources.resources
+C:\Users\lucas\source\repos\LMD_FINAL\LMD_FINAL\obj\Debug\LMD_FINAL.LMD.pt-BR.resources
+C:\Users\lucas\source\repos\LMD_FINAL\LMD_FINAL\obj\Debug\LMD_FINAL.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\LMD_FINAL\LMD_FINAL\obj\Debug\LMD_FINAL.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\LMD_FINAL\LMD_FINAL\obj\Debug\pt-BR\LMD_FINAL.resources.dll
+C:\Users\lucas\source\repos\LMD_FINAL\LMD_FINAL\obj\Debug\LMD_FINAL.exe
+C:\Users\lucas\source\repos\LMD_FINAL\LMD_FINAL\obj\Debug\LMD_FINAL.pdb
